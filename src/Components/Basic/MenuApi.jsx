@@ -67,7 +67,7 @@ const Menu = [
       id: 8,
       image: " https://github.com/thapatechnical/complete_react2021/blob/main/public/images/rajmarice.jpg?raw=true",
       name: "Rajma Rice",
-      category: "lunch",
+      category: "Lunch",
       price: "60₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
