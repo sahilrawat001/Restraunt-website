@@ -3,14 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import Restraunt from './Components/Basic/Restraunt';
-function Name(){
-  return (
-    <h1> hello all</h1>
-   )
-}
+
 ReactDOM.render(
     <React.StrictMode>
-     <Name/>
      <App />
      <Restraunt/> 
     </React.StrictMode>,
